@@ -1,12 +1,12 @@
 # KnowAstrolabe
-星盘入门资料
-
-原谅我干一些非程序员干的活
+星盘入门资料，主要由师傅授业和收集资料整理而成，使用OCR把图片资料转化成文字文档。
 
 <h2 dir="auto"><a id="user-content-致谢" class="anchor" aria-hidden="true" href="#致谢"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>致谢</h2>
 <p dir="auto">感谢喵师傅的授课。</p>
 <h2 dir="auto"><a id="user-content-️投喂" class="anchor" aria-hidden="true" href="#️投喂"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>投喂</h2>
-<p dir="auto">觉的好用的话，可以支持作者哟ヾ(･ω･`｡)</p>
+<p dir="auto">觉的好用的话，可以支持作者哟ヾ(･ω･`｡)
+<img src="https://github.com/kingkie/KnowAstrolabe/blob/master/A%E6%98%9F%E5%BA%A7%E6%98%9F%E7%9B%98/%E7%94%A8%E5%9B%BE/xiexie1.jpg" alt="赞赏码" style="max-width: 100%;">
+</p>
 
 <h2 dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji>License</h2>
-<p dir="auto"><a href="https://github.com/kingkie/KnowAstrolabe/blob/master/LICENSE">MIT</a>另外说明：除了MIT协议外，直接使用成形文档进行印刷传播的需要经过作者同意。</p>
+<p dir="auto"><a href="https://github.com/kingkie/KnowAstrolabe/blob/master/LICENSE">MIT</a>；另外说明：除了MIT协议外，直接使用成形文档进行印刷传播的需要经过作者同意。</p>
